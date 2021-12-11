@@ -1,4 +1,4 @@
-# Xeggo Streaming User Manual
+# Xeggo Product Documentation
 
 ## 1. Introduction
 
